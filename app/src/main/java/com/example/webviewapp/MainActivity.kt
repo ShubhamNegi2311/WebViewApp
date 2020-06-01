@@ -84,6 +84,7 @@ class MainActivity : AppCompatActivity() {
          * another tag added
          * testing for pull request
          * this is master branch
+         * another test how to pull code from git
          */
 
     }
