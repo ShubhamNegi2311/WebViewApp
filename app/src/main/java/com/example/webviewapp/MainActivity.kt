@@ -85,6 +85,9 @@ class MainActivity : AppCompatActivity() {
          * testing for pull request
          * this is master branch
          * another test how to pull code from git
+         * another test to check git commit
+         * line 1
+         * lin 2
          */
 
     }
